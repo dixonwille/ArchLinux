@@ -5,8 +5,8 @@ This is the way that I settup my arch linux machine.
 ## Helpful Links
 
 * [Partitioning](https://wiki.archlinux.org/index.php/partitioning)
-* [Useful Guid](https://gist.github.com/mattiaslundberg/8620837)
-* [CBelk Guid](https://github.com/cbelk/arch-install/blob/master/setup)
+* [Useful Guide](https://gist.github.com/mattiaslundberg/8620837)
+* [CBelk Guide](https://github.com/cbelk/arch-install/blob/master/setup)
 
 ## Installation
 
