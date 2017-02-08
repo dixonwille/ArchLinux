@@ -134,7 +134,7 @@ Reboot the system and you should be able to login as your new user.
 
 Install all the fun and intresting packages available to you. I would suggest installing `xorg-server` and your appropriate drivers next if you want a Desktop Envrionment.
 
-## Pakcages
+## Packages
 
 These are packages that I usually install and configure after a fresh install to get everything up and functioning for me.
 
