@@ -175,3 +175,12 @@ This if for my desktop environment
 * pavucontrol
 * VSCode (AUR)
 * vlc
+
+## Configuration Helpful
+
+* [GPG2](https://wiki.archlinux.org/index.php/GnuPG)
+    * useful for setting up ssh
+
+## TODO
+
+* Add Dot files and other configuration files to this repository to help ease the process of configuring.
