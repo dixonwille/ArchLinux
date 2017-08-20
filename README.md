@@ -146,11 +146,11 @@ Packages are in order as I would install them if installing them separatly from 
 * go-tools
 * alsa-util
 * pulseaudio
-* pulseaudio-alsa
 * transmission-cli
 * transmission-remote-cli
-* keybase
 * openssh
+* jack2
+* cadence (AUR)
 
 I ran these together to make sure they were tied to eachother.
 
@@ -162,18 +162,17 @@ I ran these together to make sure they were tied to eachother.
 * nvidia-libgl
 * lib32-nvidia-libgl
 
-This if for my desktop environment
+This is for my desktop environment
 
-* openbox
+* i3
 * feh
 * autocutsel
 * xcompmgr
 * urxvt
 * tint2
 * libnotify
-* firefox
-* pavucontrol
-* VSCode (AUR)
+* chromium
+* atom
 * vlc
 
 ## Configuration Helpful
